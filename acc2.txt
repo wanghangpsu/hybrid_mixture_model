@@ -1,0 +1,8 @@
+500 {'accuracy': 0.2654, 'loss': 4.12581, 'global_step': 60000}
+1000 {'accuracy': 0.3462, 'loss': 3.5683944, 'global_step': 120000}
+5000 {'accuracy': 0.4496, 'loss': 3.0102553, 'global_step': 180000}
+10000 {'accuracy': 0.4795, 'loss': 2.930204, 'global_step': 240000}
+20000 {'accuracy': 0.524, 'loss': 2.1465838, 'global_step': 300000}
+30000 {'accuracy': 0.5482, 'loss': 1.8790094, 'global_step': 360000}
+40000 {'accuracy': 0.5696, 'loss': 1.7366604, 'global_step': 420000}
+50000 {'accuracy': 0.5774, 'loss': 1.6578556, 'global_step': 480000}
